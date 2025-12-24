@@ -22,3 +22,5 @@
 ![](https://github.com/user-attachments/assets/87a056d1-946a-49d3-9f33-1f4971e2d601)
 ### 管理用户界面
 ![](https://github.com/user-attachments/assets/f659d4d2-10d1-4004-8b41-78f32ebc2e20)
+### 数据库
+![](https://github.com/user-attachments/assets/4ec6bd4b-4b72-4807-87d4-3c3299ef1d8b)
