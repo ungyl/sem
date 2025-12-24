@@ -13,7 +13,7 @@
 
 ## 界面展示
 ### 登录界面
-！[](https://github.com/user-attachments/assets/7d308c9f-bd41-41e3-aa70-269c84195eb6)
+![](https://github.com/user-attachments/assets/7d308c9f-bd41-41e3-aa70-269c84195eb6)
 ### 数据显示界面
 ![](https://github.com/user-attachments/assets/0c0e986f-149c-4e1a-8fc5-a8f3c0ab6524)
 ### 设备添加&定时控制界面
