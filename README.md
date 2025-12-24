@@ -13,10 +13,10 @@
 
 ## 界面展示
 ### 登录界面
-<img width="376" height="249" alt="Snipaste_2025-12-24_16-15-09" src="https://github.com/user-attachments/assets/7d308c9f-bd41-41e3-aa70-269c84195eb6" />
+！[](https://github.com/user-attachments/assets/7d308c9f-bd41-41e3-aa70-269c84195eb6)
 ### 数据显示界面
-<img width="264" height="437" alt="Snipaste_2025-12-24_16-15-48" src="https://github.com/user-attachments/assets/0c0e986f-149c-4e1a-8fc5-a8f3c0ab6524" />
+![](https://github.com/user-attachments/assets/0c0e986f-149c-4e1a-8fc5-a8f3c0ab6524)
 ### 设备添加&定时控制界面
-<img width="414" height="249" alt="Snipaste_2025-12-24_16-16-44" src="https://github.com/user-attachments/assets/87a056d1-946a-49d3-9f33-1f4971e2d601" />
+![](https://github.com/user-attachments/assets/87a056d1-946a-49d3-9f33-1f4971e2d601)
 ### 管理用户界面
-<img width="301" height="324" alt="Snipaste_2025-12-24_16-16-52" src="https://github.com/user-attachments/assets/f659d4d2-10d1-4004-8b41-78f32ebc2e20" />
+![](https://github.com/user-attachments/assets/f659d4d2-10d1-4004-8b41-78f32ebc2e20)
