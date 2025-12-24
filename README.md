@@ -10,7 +10,9 @@
 
 # 服务器端
 ## 数据采集模拟
-
+### 1.模拟数据
+![](https://github.com/user-attachments/assets/e1fe6925-9a9c-4413-ade2-841e1cd0d2e4)
+### 2.内网穿透
 ## 界面展示
 ### 登录界面
 ![](https://github.com/user-attachments/assets/7d308c9f-bd41-41e3-aa70-269c84195eb6)
