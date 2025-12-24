@@ -1,11 +1,15 @@
 # 客户端界面展示
 ### 主页
+![](https://github.com/user-attachments/assets/d0679319-bf5b-4aae-a780-3224f303b2c7)
 <img width="295" height="609" alt="Snipaste_2025-12-24_16-04-59" src="https://github.com/user-attachments/assets/d0679319-bf5b-4aae-a780-3224f303b2c7" />
 ### 通信控制页
+![](https://github.com/user-attachments/assets/cac686d8-bf23-42a1-9e1f-286a3bc5bca2)
 <img width="292" height="604" alt="Snipaste_2025-12-24_16-03-09" src="https://github.com/user-attachments/assets/cac686d8-bf23-42a1-9e1f-286a3bc5bca2" />
 ### 传感器配置页 
+![](https://github.com/user-attachments/assets/bdcfe2c1-9c21-451e-9534-db66179c03f8)
 <img width="296" height="611" alt="Snipaste_2025-12-24_16-04-03" src="https://github.com/user-attachments/assets/bdcfe2c1-9c21-451e-9534-db66179c03f8" />
-### 状态监控页
+### 状态监控页 
+![](https://github.com/user-attachments/assets/5a70f254-283c-4967-b4bf-143516debe5b)
 <img width="290" height="602" alt="Snipaste_2025-12-24_16-04-18" src="https://github.com/user-attachments/assets/5a70f254-283c-4967-b4bf-143516debe5b" />
 
 # 服务器端
